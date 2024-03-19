@@ -1,0 +1,32 @@
+style>
+  body{background-color: rgb(30, 51, 48)} 
+       body{background-image: url(_DSC8857.JPG); background-blend-mode: luminosity;
+ background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+  font-family: sans-serif 'Times New Roman', Times, serif;}
+        h1{color: azure;#H1{border-radius: 15px;
+          border-top-color: goldenrod;}}
+        p{color: beige;}
+        label{color: beige;}
+        input{color: beige;}
+        img {
+          width: 60px;
+          height: 5;
+          border-radius: 30px;
+          float: left;
+          margin-right: 1.5%;
+        }
+        p.username {
+          font-weight: bold;
+          font-family: 'Times New Roman', Times, serif;
+        }H2 {color: rgb(224, 224, 201);}
+         ul {color: rgb(224, 224, 201);}
+        h3 {color: rgb(224, 224, 201);}
+        table {color: rgb(224, 224, 201);}
+    #LABEL1 {color: aqua;}
+    #LABEL2{color: rgb(0, 0, 0);}
+    #INPUT1{color: rgb(0, 0, 0);}#table1{color: rgb(97, 97, 92);}
+    #input1 {color: rgb(0, 0, 0)}
+    
